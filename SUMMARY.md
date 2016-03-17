@@ -2,7 +2,7 @@
 
 * [自序](chapter00/preface.md)
    * [开学典礼笔记](chapter00/note.md)
-   * [我为什么写作](chapter00/note.md)
+   * [我为什么写作](chapter00/note2.md)
 * [第一讲：教不会的写作](chapter01/README.md)
    * [笔记](chapter01/note.md)
    * [作业](chapter01/assignment.md)
