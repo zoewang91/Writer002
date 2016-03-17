@@ -10,10 +10,10 @@
   * 写一篇千字文
   * 刻意练习一个知识点
   * 对该知识点写三条微博，尝试复述
-  * 记录疑，问在[workflowy](https://workflowy.com/)，整理后发到[Issues](https://github.com/OpenMindClub/Writer002/issues)
+  * 记录疑问在本子上，整理后发到[Issues](https://github.com/zoewang91/Writer002/issues)
   
   `nwd6`
-  * 周末小组互评
+  * 周末小组线下或线上互评
   * 阳老微信答疑
   
 * 每天行动
